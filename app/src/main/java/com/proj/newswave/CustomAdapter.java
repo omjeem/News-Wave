@@ -1,4 +1,4 @@
-package com.example.newswave;
+package com.proj.newswave;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,8 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.newswave.Models.NewsHeadlines;
+import com.proj.newswave.Models.NewsHeadlines;
+import com.proj.newswave.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

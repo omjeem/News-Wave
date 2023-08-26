@@ -1,4 +1,4 @@
-package com.example.newswave;
+package com.proj.newswave;
 
 import org.junit.Test;
 

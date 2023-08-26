@@ -1,10 +1,10 @@
-package com.example.newswave;
+package com.proj.newswave;
 
 import android.content.Context;
 import android.widget.Toast;
 
-import com.example.newswave.Models.NewsApiResponse;
-import com.google.gson.Gson;
+import com.proj.newswave.Models.NewsApiResponse;
+import com.proj.newswave.R;
 
 import retrofit2.Call;
 import retrofit2.Callback;

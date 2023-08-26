@@ -1,17 +1,16 @@
-package com.example.newswave;
+package com.proj.newswave;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.example.newswave.Models.NewsHeadlines;
+import com.proj.newswave.Models.NewsHeadlines;
+import com.proj.newswave.R;
 import com.squareup.picasso.Picasso;
 
 public class DetailsActivity extends AppCompatActivity {

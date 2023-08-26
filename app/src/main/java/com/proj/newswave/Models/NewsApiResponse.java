@@ -1,4 +1,4 @@
-package com.example.newswave.Models;
+package com.proj.newswave.Models;
 
 import java.io.Serializable;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.newswave;
+package com.proj.newswave;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,8 @@ import android.view.View;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
+
+import com.proj.newswave.R;
 
 public class WebViewActivity extends AppCompatActivity {
 

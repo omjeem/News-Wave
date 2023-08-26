@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.newswave'
+    namespace 'com.proj.newswave'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.newswave"
+        applicationId "com.proj.newswave"
         minSdk 24
         targetSdk 33
         versionCode 1

@@ -1,6 +1,6 @@
-package com.example.newswave;
+package com.proj.newswave;
 
-import com.example.newswave.Models.NewsHeadlines;
+import com.proj.newswave.Models.NewsHeadlines;
 
 interface SelectListener {
 void OnNewsClicked(NewsHeadlines newsHeadlines);

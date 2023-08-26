@@ -1,6 +1,5 @@
-package com.example.newswave;
+package com.proj.newswave;
 
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -13,8 +12,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.example.newswave.Models.NewsApiResponse;
-import com.example.newswave.Models.NewsHeadlines;
+import com.proj.newswave.Models.NewsApiResponse;
+import com.proj.newswave.Models.NewsHeadlines;
+import com.proj.newswave.R;
 
 import java.util.List;
 
@@ -85,9 +85,6 @@ public class MainActivity extends AppCompatActivity implements SelectListener , 
 
           dialog.dismiss();
         }
-
-
-
         @Override
         public void onError(String message) {
 
